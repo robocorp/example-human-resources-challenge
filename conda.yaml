@@ -5,4 +5,4 @@ dependencies:
   - python=3.7.5
   - pip=20.1
   - pip:
-      - rpaframework==11.0.0
+      - rpaframework==11.2.0
