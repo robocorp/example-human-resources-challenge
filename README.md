@@ -1,5 +1,7 @@
 # A robot that completes the human resources challenge
 
+> This robot needs to be run in a Windows environment.
+
 <img src="images/hr-web-app.png" style="margin-bottom:20px">
 
 This example robot completes the human resources challenge at https://developer.automationanywhere.com/challenges/automationanywherelabs-employeedatamigration.html.
