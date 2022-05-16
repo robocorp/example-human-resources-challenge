@@ -22,7 +22,7 @@ def complete_human_resources_challenge():
     open_hr_web_app(HR_WEB_APP_URL)
     complete_all_employee_details(AMOUNT_OF_EMPLOYEES_TO_PROCESS)
     take_screenshot_of_results()
-    win_lib.close_window(EMPLOYEE_LIST_APP_TITLE)
+    win_lib.close_current_window()
 
 
 def open_employee_list_app(path):
